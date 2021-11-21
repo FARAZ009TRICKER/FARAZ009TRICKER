@@ -32,7 +32,7 @@ def main():
     print(abm)
     os.system("cd load && python2 __loading__")
     os.system("clear")
-    print(abm)
+    print(Faraz)
     print("\033[1;97m[\033[1;93m1\033[1;97m] Install 009 tool for cloning")
     time.sleep(0.05)
     print("\033[1;97m[\033[1;93m2\033[1;97m] Install 009 extracting tool")
